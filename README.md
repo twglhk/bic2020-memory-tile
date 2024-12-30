@@ -1,5 +1,3 @@
-# 영단어 배틀 게임 야너두
-
 # 🕹️ 야너두 - 영단어배틀
 
 ![타이틀](https://github.com/twglhk/bic2020-memory-tile/blob/main/BIC_Memory%20Tiles/%EB%A6%AC%EC%86%8C%EC%8A%A4/%ED%83%80%EC%9D%B4%ED%8B%80%20%ED%99%94%EB%A9%B4.png)
