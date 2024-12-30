@@ -34,8 +34,8 @@
 
 ---
 
-## 🚀 실행 방법
-
+## 🚀 [다운로드](https://github.com/twglhk/bic2020-memory-tile/releases/tag/win64)
+- Window 환경에서 실행 가능합니다
 
 ---
 
