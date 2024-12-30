@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2fb95b074e0bfc245b2b35ad463562e3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SeoulHangang
+  fontNames:
+  - SeoulHangang
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fefc1658353a5504aa84d61df4b5633b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

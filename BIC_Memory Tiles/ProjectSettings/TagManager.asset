@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Tile
+  - Spawn
+  - Spawn Alter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3500827537
+    locked: 0
+  - name: Objects
+    uniqueID: 2594788101
+    locked: 0
+  - name: Tiles
+    uniqueID: 337492707
+    locked: 0
+  - name: Marker
+    uniqueID: 331802037
+    locked: 0
+  - name: Characters
+    uniqueID: 2243916167
+    locked: 0
+  - name: Matching
+    uniqueID: 3213544789
+    locked: 0
